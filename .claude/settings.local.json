@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install -D @types/node)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
